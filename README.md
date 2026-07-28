@@ -1,48 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Kamalu%20Kingsley!&fontSize=50&animation=fadeIn" />
+  <a href="https://github.com/Darkwaczy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Kamalu+Kingsley+👋;Full-Stack+Software+Engineer;Digital+Innovator+%26+Problem+Solver;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  </a>
 </div>
 
-<h3 align="center">Full Stack Developer | Digital Innovator | Based in Nigeria 🇳🇬</h3>
-
-<div align="center">
+<p align="center">
   <a href="mailto:realwaczy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&border=58A6FF" alt="Email" />
   </a>
   <a href="https://www.instagram.com/tech_kamalu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram" />
   </a>
-</div>
+  <a href="https://github.com/Darkwaczy">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  </a>
+</p>
 
-<br />
+<br>
 
-### 👨‍💻 About Me
-- 🚀 I build modern, scalable web applications that solve real-world problems.
-- 💻 Currently working on awesome full-stack projects like **BioLife Wellness Hub** and **Kontribu**.
-- 🧠 I'm passionate about clean UI/UX, robust backend architecture, and seamless integrations.
-- ⚡ In my free time, I love experimenting with new web technologies and AI automations.
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ Tech Stack & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+### 👨‍💻 Engineering Philosophy
+I specialize in building **scalable, high-performance web applications** that bridge the gap between complex backend architectures and flawless, intuitive user interfaces.
 
-<br />
+*   🔭 **Currently architecting:** BioLife Wellness Hub & Kontribu
+*   🌱 **Deep diving into:** Edge Functions, AI Integrations, and Micro-SaaS
+*   ⚡ **Fun fact:** I can debug complex API integrations faster than you can brew a cup of coffee.
 
-### 📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tech Stack & Arsenal
+
+**Core Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+
+**Backend & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+
+**DevOps & Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkwaczy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kamalu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkwaczy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" alt="Kamalu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkwaczy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
+---
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darkwaczy&theme=tokyonight&hide_border=true&background=0D1117" alt="Kamalu's GitHub Streak" />
+  <i>Let's build something extraordinary.</i>
 </div>
