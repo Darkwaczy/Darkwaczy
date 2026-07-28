@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Darkwaczy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Kamalu+Kingsley+👋;Architecting+Scalable+Web+Systems;Building+Agentic+AI+%26+LLM+Integrations;Full-Stack+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Kamalu+Kingsley+👋;Architecting+Scalable+Web+Systems;Building+Agentic+AI+%26+LLM+Integrations;Full-Stack+Software+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
